@@ -1,13 +1,13 @@
 *** QUESTIONS ***
 
 1. What does it mean to `commit` in a git repository?
-< Your answer here >
+to commit in git is saving every file in your project at the same time and holding that save as a backup even after you commit again.
 
 2. When should you create a new branch?  Use examples in your answer!
-< Your answer here >
+you should create a new branch when you are adding new functionality or have a working program and want to add anything without temporaraly breaking the code.
 
 3. In your own words, what is a database?  Use examples to explain.
-< Your answer here >
+a database is a system of tables that is designed to easily filter through large quantities of data to return desired subsets of that data.
 
 4. In a database, how do we create relationships between tables?
-< Your answer here >
+we create relationships between tables by using forign keys in one table to refer to the primary keys in another table.
